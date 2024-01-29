@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Chaudhary  (@sc361994)
 - 👀 I’m interested in Robotics, Machine Learning and Matlab Coding 
-- 🌱 I’m currently learning Data-Driven Control of robots 
+- 🌱 I’m currently learning Model based Data-Driven Control of robots 
 - 📫 How to reach me at chaudhary.10@iitj.ac.in and saurabhc783@gmail.com 
 
 <!---
